@@ -20,7 +20,7 @@
  
  * Technical
      * Pearl & Glymour---Causal Inference in Statistics: A Primer
-     * Tor * Szepesvari---Bandit Algorithms
+     * Tor & Szepesvari---Bandit Algorithms
      * Dimitri Bertsekas---REINFORCEMENT LEARNING AND OPTIMAL CONTROL
 
 
