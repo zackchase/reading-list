@@ -19,7 +19,9 @@
  * Non-fiction
      * Peter Singer---Animal Liberation
      * Atul Gawande---Complications
-     * Atul Gawande---The checklist manifesto
+     * Atul Gawande---Better
+     * Atul Gawande---Being Mortal
+     * Steven Hatch---Snowball in a Blizzard
      * Yuval Harari---Sapiens
 
  * Science Vulgarizations
@@ -30,5 +32,6 @@
  * Technical 
      * Pearl & Glymour---Causal Inference in Statistics: A Primer
      * Tor & Szepesvari---Bandit Algorithms
-     * Dimitri Bertsekas---REINFORCEMENT LEARNING AND OPTIMAL CONTROL
+     * Dimitri Bertsekas---Reinforcement Learning and Optimal Control
+     * David MacKay---Information Theory, Inference, and Learning Algorithms
 
