@@ -3,7 +3,8 @@
 ## Fiction
 
 ## Nonfiction
- * Eating Animals by Jonathan Safran Foer [in progress]
+ * *Eating Animals* by Jonathan Safran Foer [Complete]
+ * *Sapiens* by Yuval Harari [*in progress*]
 
 ## Vulgarizations
 
@@ -15,6 +16,7 @@
  * Fiction 
      * Nnedi Okorafor---Binti (& possible sequels)
      * Hannah Lillith Assadi---Sonora
+     * Peter Watts---Beyond the Rift
 
  * Non-fiction
      * Peter Singer---Animal Liberation
@@ -22,7 +24,6 @@
      * Atul Gawande---Better
      * Atul Gawande---Being Mortal
      * Steven Hatch---Snowball in a Blizzard
-     * Yuval Harari---Sapiens
      * Michael Pollan---How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence
 
  * Science Vulgarizations
