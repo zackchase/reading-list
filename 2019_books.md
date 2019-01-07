@@ -3,8 +3,8 @@
 ## Fiction
 
 ## Nonfiction
- * *Eating Animals* by Jonathan Safran Foer [Complete]
- * *Sapiens* by Yuval Harari [*in progress*]
+ * *Eating Animals* by Jonathan Safran Foer [complete]
+ * *Sapiens* by Yuval Harari [in progress]
 
 ## Vulgarizations
 
