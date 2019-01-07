@@ -23,6 +23,7 @@
      * Atul Gawande---Being Mortal
      * Steven Hatch---Snowball in a Blizzard
      * Yuval Harari---Sapiens
+     * Michael Pollan---How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence
 
  * Science Vulgarizations
      * Daniel Kahneman---Thinking Fast and Slow
