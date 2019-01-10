@@ -34,6 +34,8 @@
     * *The Algebraic Mind* by Gary Marcus
     * *Crowdsourced Health: How What You Do on the Internet will Improve Medicine* Elad Yom-Tov
     * *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World* by Pedro Domingos
+    * *The Color of Law: A Forgotten History of How Our Government Segregated America* by Richard Rothstein
+    * *Seeing like a State* by James C. Scott
   
   * Technical Textbook 
     * *Causal Inference in Statistics: A Primer* by Judea Pearl, Madelyn Glymour, and Nicholas Jewell
