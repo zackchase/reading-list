@@ -36,6 +36,8 @@
     * *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World* by Pedro Domingos
     * *The Color of Law: A Forgotten History of How Our Government Segregated America* by Richard Rothstein
     * *Seeing like a State* by James C. Scott
+    * *The Logic of Scientific Discovery* by Karl Popper
+    * *Against Method* by Paul Feyerabend 
   
   * Technical Textbook 
     * *Causal Inference in Statistics: A Primer* by Judea Pearl, Madelyn Glymour, and Nicholas Jewell
@@ -43,4 +45,4 @@
     * *Bandit Algorithms* by Tor & Szepesvari
     * *Reinforcement Learning and Optimal Control* by Dimitri Bertsekas
     * *Information Theory, Inference, and Learning Algorithms* by David MacKay
-
+    * *The Principia: The Authoritative Translation and Guide: Mathematical Principles of Natural Philosophy* by Sir Isaac Newton
