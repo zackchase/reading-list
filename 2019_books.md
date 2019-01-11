@@ -1,12 +1,12 @@
 # Books 
 
 ## Fiction
-
+ * *Binti* by Nnedi Okorafor
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
 
 ## Academic (loosely)
-  * *Sapiens* by Yuval Harari [in progress]
+  * *Sapiens* by Yuval Harari [completed]
   * *Cybernetics* by Norbert Weiner [in progress]
  
 ## Technical Textbook
@@ -17,7 +17,7 @@
   * Fiction 
     * *CivilWarLand in Bad Decline: Stories and a Novella* by George Sanders
     * *The Trial* by Franz Kafka
-    * *Binti (& possible sequels)* by Nnedi Okorafor
+    * *Binti sequels* by Nnedi Okorafor
     * *Sonora* by Hannah Lillith Assadi
     * *Beyond the Rift* by Peter Watts
 
