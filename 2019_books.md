@@ -11,7 +11,7 @@
   * *Sapiens* by Yuval Harari [completed]
   * *Cybernetics* by Norbert Weiner [in progress]
  
-## Technical Textbook
+## Technical Texts
 
 
 # Queue
@@ -42,7 +42,7 @@
     * *The Logic of Scientific Discovery* by Karl Popper
     * *Against Method* by Paul Feyerabend 
   
-  * Technical Textbook 
+  * Technical Texts
     * *Causal Inference in Statistics: A Primer* by Judea Pearl, Madelyn Glymour, and Nicholas Jewell
     * *Causality* by Judea Pearl
     * *Bandit Algorithms* by Tor & Szepesvari
