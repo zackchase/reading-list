@@ -2,7 +2,8 @@
 
 ## Fiction
  * *Binti* by Nnedi Okorafor [complete]
- * *Binti* by Nnedi Okorafor [in progress]
+ * *Binti: Home* by Nnedi Okorafor [complete]
+ * *Binti: Night Masquerade* by Nnedi Okorafor [in progress]
  
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
