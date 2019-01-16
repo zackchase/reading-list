@@ -3,13 +3,15 @@
 ## Fiction
  * *Binti* by Nnedi Okorafor [complete]
  * *Binti: Home* by Nnedi Okorafor [complete]
- * *Binti: Night Masquerade* by Nnedi Okorafor [in progress]
+ * *Binti: Night Masquerade* by Nnedi Okorafor [complete]
+ * *The Algebraic Mind* by Gary Marcus [in progress]
+
  
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
 
 ## Academic (loosely)
-  * *Sapiens* by Yuval Harari [completed]
+  * *Sapiens* by Yuval Harari [complete]
   * *Cybernetics* by Norbert Weiner [in progress]
  
 ## Technical Texts
@@ -35,7 +37,6 @@
   * Academic (loosely)
     * *Homo Deus: A Brief History of Tomorrow* by Yuval Harari
     * *Thinking Fast and Slow* by Daniel Kahneman
-    * *The Algebraic Mind* by Gary Marcus
     * *Crowdsourced Health: How What You Do on the Internet will Improve Medicine* Elad Yom-Tov
     * *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World* by Pedro Domingos
     * *The Color of Law: A Forgotten History of How Our Government Segregated America* by Richard Rothstein
