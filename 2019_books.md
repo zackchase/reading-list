@@ -4,8 +4,7 @@
  * *Binti* by Nnedi Okorafor [complete]
  * *Binti: Home* by Nnedi Okorafor [complete]
  * *Binti: Night Masquerade* by Nnedi Okorafor [complete]
- * *The Algebraic Mind* by Gary Marcus [in progress]
-
+ * *The Freeze-Frame Revolution* by Peter Watts [complete]
  
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
@@ -13,7 +12,8 @@
 ## Academic (loosely)
   * *Sapiens* by Yuval Harari [complete]
   * *Cybernetics* by Norbert Weiner [in progress]
- 
+  * *The Algebraic Mind* by Gary Marcus [in progress]
+
 ## Technical Texts
 
 
