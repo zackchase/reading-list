@@ -8,6 +8,7 @@
  
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
+ * *Being Mortal* by Atul Gawande [in progress]
 
 ## Academic (loosely)
   * *Sapiens* by Yuval Harari [complete]
@@ -29,7 +30,7 @@
   * Nonfiction
     * *Animal Liberation* by Peter Singer
     * *Complications* by Atul Gawande 
-    * *Better*, *Complications*, and *Being Mortal* by Atul Gawande
+    * *Better*, *Complications* by Atul Gawande
     * *Snowball in a Blizzard* by Steven Hatch
     * *How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence* by Michael Pollan
     * *Twitter and Tear Gas: The Power and Fragility of Networked Protest* by Zeynep Tufekci
