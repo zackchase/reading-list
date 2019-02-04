@@ -8,7 +8,8 @@
  
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
- * *Being Mortal* by Atul Gawande [in progress]
+ * *Being Mortal* by Atul Gawande [complete ]
+ * *Complications* by Atul Gawande [in progress]
 
 ## Academic (loosely)
   * *Sapiens* by Yuval Harari [complete]
