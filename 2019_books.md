@@ -5,11 +5,12 @@
  * *Binti: Home* by Nnedi Okorafor [complete]
  * *Binti: Night Masquerade* by Nnedi Okorafor [complete]
  * *The Freeze-Frame Revolution* by Peter Watts [complete]
+ * *Permutation City* by Greg Egan [in progress]
  
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
  * *Being Mortal* by Atul Gawande [complete ]
- * *Complications* by Atul Gawande [in progress]
+ * *Complications* by Atul Gawande [complete] *Finished 2/15*
 
 ## Academic (loosely)
   * *Sapiens* by Yuval Harari [complete]
@@ -25,7 +26,6 @@
     * *The Death of Ivan Ilyich
     * *CivilWarLand in Bad Decline: Stories and a Novella* by George Sanders
     * *The Trial* by Franz Kafka
-    * *Binti sequels* by Nnedi Okorafor
     * *Sonora* by Hannah Lillith Assadi
     * *Beyond the Rift* by Peter Watts
 
