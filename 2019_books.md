@@ -32,13 +32,16 @@
   * Nonfiction
     * *Animal Liberation* by Peter Singer
     * *Complications* by Atul Gawande 
+    * *Homo Deus: A Brief History of Tomorrow* by Yuval Harari
     * *Better*, *Complications* by Atul Gawande
+    * *The Checklist Manifesto* by Atul Gawande
+    * *When Breath Becomes Air* by Paul Kalanithi
     * *Snowball in a Blizzard* by Steven Hatch
     * *How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence* by Michael Pollan
     * *Twitter and Tear Gas: The Power and Fragility of Networked Protest* by Zeynep Tufekci
 
   * Academic (loosely)
-    * *Homo Deus: A Brief History of Tomorrow* by Yuval Harari
+    * *The Age of Surveillance Capitalism* by Shoshana Zuboff
     * *Thinking Fast and Slow* by Daniel Kahneman
     * *Crowdsourced Health: How What You Do on the Internet will Improve Medicine* Elad Yom-Tov
     * *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World* by Pedro Domingos
