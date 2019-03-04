@@ -5,7 +5,7 @@
  * *Binti: Home* by Nnedi Okorafor [complete]
  * *Binti: Night Masquerade* by Nnedi Okorafor [complete]
  * *The Freeze-Frame Revolution* by Peter Watts [complete]
- * *Permutation City* by Greg Egan [in progress]
+ * *Permutation City* by Greg Egan [complete]
  
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
