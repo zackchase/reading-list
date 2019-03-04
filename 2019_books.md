@@ -31,9 +31,8 @@
 
   * Nonfiction
     * *Animal Liberation* by Peter Singer
-    * *Complications* by Atul Gawande 
     * *Homo Deus: A Brief History of Tomorrow* by Yuval Harari
-    * *Better*, *Complications* by Atul Gawande
+    * *Better* by Atul Gawande
     * *The Checklist Manifesto* by Atul Gawande
     * *When Breath Becomes Air* by Paul Kalanithi
     * *Snowball in a Blizzard* by Steven Hatch
