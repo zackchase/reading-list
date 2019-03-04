@@ -23,7 +23,7 @@
 # Queue
 
   * Fiction 
-    * *The Death of Ivan Ilyich
+    * *The Death of Ivan Ilyich* Leo Tolstoy
     * *CivilWarLand in Bad Decline: Stories and a Novella* by George Sanders
     * *The Trial* by Franz Kafka
     * *Sonora* by Hannah Lillith Assadi
