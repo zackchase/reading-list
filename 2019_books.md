@@ -5,12 +5,14 @@
  * *Binti: Home* by Nnedi Okorafor [complete]
  * *Binti: Night Masquerade* by Nnedi Okorafor [complete]
  * *The Freeze-Frame Revolution* by Peter Watts [complete]
- * *Permutation City* by Greg Egan [complete]
+ * *Permutation City* by Greg Egan [complete] *Finished 3/1*
  
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
  * *Being Mortal* by Atul Gawande [complete ]
  * *Complications* by Atul Gawande [complete] *Finished 2/15*
+ * *Better* by Atul Gawande [in progress]
+
 
 ## Academic (loosely)
   * *Sapiens* by Yuval Harari [complete]
@@ -32,7 +34,6 @@
   * Nonfiction
     * *Animal Liberation* by Peter Singer
     * *Homo Deus: A Brief History of Tomorrow* by Yuval Harari
-    * *Better* by Atul Gawande
     * *The Checklist Manifesto* by Atul Gawande
     * *When Breath Becomes Air* by Paul Kalanithi
     * *Snowball in a Blizzard* by Steven Hatch
