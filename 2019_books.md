@@ -11,7 +11,7 @@
  * *Eating Animals* by Jonathan Safran Foer [complete]
  * *Being Mortal* by Atul Gawande [complete ]
  * *Complications* by Atul Gawande [complete] *Finished 2/15*
- * *Better* by Atul Gawande [in progress]
+ * *Better* by Atul Gawande [complete] *Finished 3/10*
 
 
 ## Academic (loosely)
@@ -20,6 +20,7 @@
   * *The Algebraic Mind* by Gary Marcus [in progress]
 
 ## Technical Texts
+  * *Causal Inference in Statistics: A Primer* by Judea Pearl, Madelyn Glymour, and Nicholas Jewell [in progress]
 
 
 # Queue
@@ -41,17 +42,16 @@
     * *Twitter and Tear Gas: The Power and Fragility of Networked Protest* by Zeynep Tufekci
 
   * Academic (loosely)
+    * *The Logic of Scientific Discovery* by Karl Popper
     * *The Age of Surveillance Capitalism* by Shoshana Zuboff
     * *Thinking Fast and Slow* by Daniel Kahneman
     * *Crowdsourced Health: How What You Do on the Internet will Improve Medicine* Elad Yom-Tov
     * *The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World* by Pedro Domingos
     * *The Color of Law: A Forgotten History of How Our Government Segregated America* by Richard Rothstein
     * *Seeing like a State* by James C. Scott
-    * *The Logic of Scientific Discovery* by Karl Popper
     * *Against Method* by Paul Feyerabend 
   
   * Technical Texts
-    * *Causal Inference in Statistics: A Primer* by Judea Pearl, Madelyn Glymour, and Nicholas Jewell
     * *Causality* by Judea Pearl
     * *Bandit Algorithms* by Tor & Szepesvari
     * *Reinforcement Learning and Optimal Control* by Dimitri Bertsekas
