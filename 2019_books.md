@@ -17,7 +17,7 @@
 ## Academic (loosely)
   * *Sapiens* by Yuval Harari [complete]
   * *Cybernetics* by Norbert Weiner [in progress]
-  * *The Algebraic Mind* by Gary Marcus [in progress]
+  * *The Algebraic Mind* by Gary Marcus [complete] *Finished 3/16*
 
 ## Technical Texts
   * *Causal Inference in Statistics: A Primer* by Judea Pearl, Madelyn Glymour, and Nicholas Jewell [in progress]
