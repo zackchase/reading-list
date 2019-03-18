@@ -6,7 +6,8 @@
  * *Binti: Night Masquerade* by Nnedi Okorafor [complete]
  * *The Freeze-Frame Revolution* by Peter Watts [complete]
  * *Permutation City* by Greg Egan [complete] *Finished 3/1*
- 
+ * *Axiomatic* by Greg Egan [in progress]
+
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
  * *Being Mortal* by Atul Gawande [complete ]
