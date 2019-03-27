@@ -6,7 +6,7 @@
  * *Binti: Night Masquerade* by Nnedi Okorafor [complete]
  * *The Freeze-Frame Revolution* by Peter Watts [complete]
  * *Permutation City* by Greg Egan [complete] *Finished 3/1*
- * *Axiomatic* by Greg Egan [in progress]
+ * *Axiomatic* by Greg Egan [complete] *Finished 3/26*
 
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
@@ -32,6 +32,7 @@
     * *The Trial* by Franz Kafka
     * *Sonora* by Hannah Lillith Assadi
     * *Beyond the Rift* by Peter Watts
+    * *Cryptonomicon* Neal Stephenson
 
   * Nonfiction
     * *Animal Liberation* by Peter Singer
