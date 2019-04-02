@@ -7,6 +7,8 @@
  * *The Freeze-Frame Revolution* by Peter Watts [complete]
  * *Permutation City* by Greg Egan [complete] *Finished 3/1*
  * *Axiomatic* by Greg Egan [complete] *Finished 3/26*
+ * *The Colonel* by Peter Watts [complete] *Finished 3/30*
+ * *Cryptonomicon* Neal Stephenson [in progress] 
 
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
