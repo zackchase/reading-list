@@ -24,7 +24,8 @@
 
 ## Technical Texts
   * *Causal Inference in Statistics: A Primer* by Judea Pearl, Madelyn Glymour, and Nicholas Jewell [in progress]
-
+  * *Causal Inference* by Miguel Hernan and Jamie Robins [in progress]
+  * *Probability Theory: The Logic of Science* ET Jaynes [in progress]
 
 # Queue
 
