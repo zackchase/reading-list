@@ -8,19 +8,22 @@
  * *Permutation City* by Greg Egan [complete] *Finished 3/1*
  * *Axiomatic* by Greg Egan [complete] *Finished 3/26*
  * *The Colonel* by Peter Watts [complete] *Finished 3/30*
- * *Cryptonomicon* Neal Stephenson [in progress] 
+ * *Cryptonomicon* by Neal Stephenson [complete] *Finished 5/25*
+ * *Exhalation: Stories* by Ted Chiang [in progress]
 
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
  * *Being Mortal* by Atul Gawande [complete ]
  * *Complications* by Atul Gawande [complete] *Finished 2/15*
  * *Better* by Atul Gawande [complete] *Finished 3/10*
+ * *Mo' Meta Blues: The World According to Questlove* [in progress
 
 
 ## Academic (loosely)
   * *Sapiens* by Yuval Harari [complete]
   * *Cybernetics* by Norbert Weiner [in progress]
   * *The Algebraic Mind* by Gary Marcus [complete] *Finished 3/16*
+  * *Mostly Harmless Econometrics* [in progress]
 
 ## Technical Texts
   * *Causal Inference in Statistics: A Primer* by Judea Pearl, Madelyn Glymour, and Nicholas Jewell [in progress]
