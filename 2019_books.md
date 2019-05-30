@@ -40,6 +40,7 @@
     * *CivilWarLand in Bad Decline: Stories and a Novella* by George Sanders
     * *The Trial* by Franz Kafka
     * *Beyond the Rift* by Peter Watts
+    * *Solaris* by Stanslaw Lem
 
   * Nonfiction
     * *Animal Liberation* by Peter Singer
