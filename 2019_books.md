@@ -9,14 +9,17 @@
  * *Axiomatic* by Greg Egan [complete] *Finished 3/26*
  * *The Colonel* by Peter Watts [complete] *Finished 3/30*
  * *Cryptonomicon* by Neal Stephenson [complete] *Finished 5/25*
- * *Exhalation: Stories* by Ted Chiang [in progress]
+ * *Exhalation: Stories* by Ted Chiang [complete] *Finished 5/26*
+ * *Sonora* by Hannah Lillith Assadi [complete] *Finished 5/30*
+ * *Ka* by Roberto Calasso [in progress] 
+
 
 ## Nonfiction
  * *Eating Animals* by Jonathan Safran Foer [complete]
  * *Being Mortal* by Atul Gawande [complete ]
  * *Complications* by Atul Gawande [complete] *Finished 2/15*
  * *Better* by Atul Gawande [complete] *Finished 3/10*
- * *Mo' Meta Blues: The World According to Questlove* [in progress
+ * *Mo' Meta Blues: The World According to Questlove* by Ben Greenman & Questlove *Finished 5/29*
 
 
 ## Academic (loosely)
@@ -36,9 +39,7 @@
     * *The Death of Ivan Ilyich* Leo Tolstoy
     * *CivilWarLand in Bad Decline: Stories and a Novella* by George Sanders
     * *The Trial* by Franz Kafka
-    * *Sonora* by Hannah Lillith Assadi
     * *Beyond the Rift* by Peter Watts
-    * *Cryptonomicon* Neal Stephenson
 
   * Nonfiction
     * *Animal Liberation* by Peter Singer
