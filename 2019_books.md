@@ -50,8 +50,6 @@
     * *Snowball in a Blizzard* by Steven Hatch
     * *How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence* by Michael Pollan
     * *Twitter and Tear Gas: The Power and Fragility of Networked Protest* by Zeynep Tufekci
-    * *Racecraft: The Soul of Inequality in American Life* by Karen Fields
-    * *Pulled Over: How Police Stops Define Race and Citizenship* by Charles Epp
 
   * Academic (loosely)
     * *The Logic of Scientific Discovery* by Karl Popper
@@ -62,7 +60,11 @@
     * *The Color of Law: A Forgotten History of How Our Government Segregated America* by Richard Rothstein
     * *Seeing like a State* by James C. Scott
     * *Against Method* by Paul Feyerabend 
-  
+    * *Racecraft: The Soul of Inequality in American Life* by Karen Fields
+    * *Pulled Over: How Police Stops Define Race and Citizenship* by Charles Epp
+    * *Misbehaving Science: Controversy and the Development of Behavior Genetics* by Aaron Panofsky
+    * *Race After Technology: Abolitionist Tools for the New Jim Code* by Ruha Benjamin
+
   * Technical Texts
     * *Causality* by Judea Pearl
     * *Bandit Algorithms* by Tor & Szepesvari
