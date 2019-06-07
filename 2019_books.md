@@ -51,6 +51,7 @@
     * *How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence* by Michael Pollan
     * *Twitter and Tear Gas: The Power and Fragility of Networked Protest* by Zeynep Tufekci
     * *Racecraft: The Soul of Inequality in American Life* by Karen Fields
+    * *Pulled Over: How Police Stops Define Race and Citizenship* by Charles Epp
 
   * Academic (loosely)
     * *The Logic of Scientific Discovery* by Karl Popper
