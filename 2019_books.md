@@ -64,6 +64,8 @@
     * *Pulled Over: How Police Stops Define Race and Citizenship* by Charles Epp
     * *Misbehaving Science: Controversy and the Development of Behavior Genetics* by Aaron Panofsky
     * *Race After Technology: Abolitionist Tools for the New Jim Code* by Ruha Benjamin
+    * *Alchemy of Race and Rights: Diary of a Law Professor* by Patricia Williams
+    * *Algorithms of Oppression* by Safiya Umoja Noble
 
   * Technical Texts
     * *Causality* by Judea Pearl
