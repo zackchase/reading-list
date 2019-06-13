@@ -66,6 +66,7 @@
     * *Race After Technology: Abolitionist Tools for the New Jim Code* by Ruha Benjamin
     * *Alchemy of Race and Rights: Diary of a Law Professor* by Patricia Williams
     * *Algorithms of Oppression* by Safiya Umoja Noble
+    * *The Broken Ladder: How Inequality Affects the Way We Think, Live, and Die* by Keith Payne
 
   * Technical Texts
     * *Causality* by Judea Pearl
