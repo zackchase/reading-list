@@ -36,8 +36,8 @@
   * *The Algebraic Mind* by Gary Marcus [complete] *Finished 3/16*
   * *Mostly Harmless Econometrics* [in progress]
   * *Race After Technology* by Ruha Benjamin [complete] *Finished 9/?*
-  * *The Imperative of Integration* by Elizabeth Anderson *Finished 12/?*
-  * *Racecraft: The Soul of Inequality in American Life* [in progress]
+  * *The Imperative of Integration* by Elizabeth Anderson [complete] *Finished 11/25*
+  * *Racecraft: The Soul of Inequality in American Life* by Barbara J. Fields and Karen Fields [in progress]
   * *The New Jim Crow: Mass Incarceration in the Age of Colorblindness* by Michelle Alexander [in progress]
 
 ## Technical Texts
