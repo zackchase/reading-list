@@ -7,7 +7,10 @@
  * *Consuming Fire* by John Scalzi [complete] [audiobook] [mindless/running]
 
 ## Nonfiction
- * *Becoming* by Michelle Obama [in progress] [audiobook] [recommended]
+ * *Becoming* by Michelle Obama [complete] [audiobook] [recommended]
+ * *Prediction Machines* by Ajay Agrawal, Avi Goldfarb, and Joshua Gans [complete] [missed opportunity]
+ *The New Jim Crow: Mass Incarceration in the Age of Colorblindness* by Michelle Alexander
+
 
 ## Academic 
   * *Racecraft: The Soul of Inequality in American Life* by Barbara J. Fields and Karen Fields [in progress]
@@ -15,5 +18,4 @@
   * *The Logic of Scientific Discovery* by Karl Popper [in progress]
   
  ## Queue
-  *The New Jim Crow: Mass Incarceration in the Age of Colorblindness* by Michelle Alexander
-  
+  * *Chain Reaction: The Impact of Race, Rights, and Taxes on American Politics* by Mary & Thomas Edsall
