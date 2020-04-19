@@ -7,17 +7,17 @@
  * *Consuming Fire* by John Scalzi [complete] [audiobook] [mindless/running]
  * *The Tombs of Atuan* by Ursula K. Le Guin [complete] [audiobook] [recommended/running]
  * *The Farthest Shore* by Ursula K. Le Guin [complete] [audiobook] [recommended/running]
+ * *The Last Emperox* by John Scalzi [in progress] [audiobook]
 
-## Nonfiction
+## Nonfiction / Academic
  * *Becoming* by Michelle Obama [complete] [audiobook] [recommended]
- * *Prediction Machines* by Ajay Agrawal, Avi Goldfarb, and Joshua Gans [complete] [missed opportunity]
- * *The New Jim Crow: Mass Incarceration in the Age of Colorblindness* by Michelle Alexander
-
+ * *Prediction Machines* by Ajay Agrawal, Avi Goldfarb, and Joshua Gans [complete] 
 
 ## Academic 
-  * *Racecraft: The Soul of Inequality in American Life* by Barbara J. Fields and Karen Fields [in progress]
-  * *Mechanics: Volume 1 (Course of Theoretical Physics)* by E.D. Landau and E.M. Lifshitz [in progress]
-  * *The Logic of Scientific Discovery* by Karl Popper [in progress]
+ * *The New Jim Crow: Mass Incarceration in the Age of Colorblindness* by Michelle Alexander [complete]
+ * *Racecraft: The Soul of Inequality in American Life* by Barbara J. Fields and Karen Fields [complete]
+ * *Mechanics: Volume 1 (Course of Theoretical Physics)* by E.D. Landau and E.M. Lifshitz [in progress]
+ * *The Logic of Scientific Discovery* by Karl Popper [in progress]
   
  ## Queue
   * *Chain Reaction: The Impact of Race, Rights, and Taxes on American Politics* by Mary & Thomas Edsall
