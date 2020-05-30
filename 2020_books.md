@@ -20,6 +20,7 @@
  * *The Logic of Scientific Discovery* by Karl Popper [in progress]
  * *The social construction of what?* by Ian Hacking [in progress
  * *I am a Strange Loop* by Douglas Hofstadter [in progress]
+ * *Local Justice* by Jon Elster [in progress]
   
  ## Queue
   * *Chain Reaction: The Impact of Race, Rights, and Taxes on American Politics* by Mary & Thomas Edsall
