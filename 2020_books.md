@@ -16,10 +16,10 @@
 ## Academic 
  * *The New Jim Crow: Mass Incarceration in the Age of Colorblindness* by Michelle Alexander [complete]
  * *Racecraft: The Soul of Inequality in American Life* by Barbara J. Fields and Karen Fields [complete]
+ * *I am a Strange Loop* by Douglas Hofstadter [complete] [strongly recommended]
  * *Mechanics: Volume 1 (Course of Theoretical Physics)* by E.D. Landau and E.M. Lifshitz [in progress]
  * *The Logic of Scientific Discovery* by Karl Popper [in progress]
- * *The social construction of what?* by Ian Hacking [in progress
- * *I am a Strange Loop* by Douglas Hofstadter [in progress]
+ * *The Social Construction of What?* by Ian Hacking [in progress]
  * *Local Justice* by Jon Elster [in progress]
   
  ## Queue
