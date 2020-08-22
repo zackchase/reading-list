@@ -13,7 +13,7 @@
  * *Becoming* by Michelle Obama [complete] [audiobook] [recommended]
  * *Prediction Machines* by Ajay Agrawal, Avi Goldfarb, and Joshua Gans [complete] 
  * *Playing Changes* by Nate Chinen [complete]
- * *The Making of the Atomic Bomb* by Richard Rhodes
+ * *The Making of the Atomic Bomb* by Richard Rhodes [in progress]
 
 ## Academic 
  * *The New Jim Crow: Mass Incarceration in the Age of Colorblindness* by Michelle Alexander [complete]
