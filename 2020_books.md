@@ -12,13 +12,12 @@
  * *Solaris* by Stanslaw Lem [complete] [recommended]
  * *Dragon's Egg* by Robert Forward [complete] [ok]
 
-## Nonfiction / Academic
+## Nonfiction 
  * *Becoming* by Michelle Obama [complete] [audiobook] [recommended]
  * *Prediction Machines* by Ajay Agrawal, Avi Goldfarb, and Joshua Gans [complete] 
  * *Playing Changes* by Nate Chinen [complete]
  * *The Making of the Atomic Bomb* by Richard Rhodes [complete] [recommended]
-
-## Academic 
+ * *Artificial Intelligence: A Guide for Thinking Humans* by Melanie Mitchell [in progress]
  * *The New Jim Crow: Mass Incarceration in the Age of Colorblindness* by Michelle Alexander [complete]
  * *Racecraft: The Soul of Inequality in American Life* by Barbara J. Fields and Karen Fields [complete]
  * *I am a Strange Loop* by Douglas Hofstadter [complete] [strongly recommended]
