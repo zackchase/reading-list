@@ -10,7 +10,7 @@
  * *The Last Emperox* by John Scalzi [complete] [audiobook] [recommended/running]
  * *The Silkworm* by Robert Galbraith [complete] [audiobook] [recommended]
  * *Solaris* by Stanslaw Lem [complete] [recommended]
- * *Dragon's Egg* by Robert Forward [in progress]
+ * *Dragon's Egg* by Robert Forward [complete] [ok]
 
 ## Nonfiction / Academic
  * *Becoming* by Michelle Obama [complete] [audiobook] [recommended]
