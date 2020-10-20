@@ -17,7 +17,7 @@
  * *Prediction Machines* by Ajay Agrawal, Avi Goldfarb, and Joshua Gans [complete] 
  * *Playing Changes* by Nate Chinen [complete]
  * *The Making of the Atomic Bomb* by Richard Rhodes [complete] [recommended]
- * *Artificial Intelligence: A Guide for Thinking Humans* by Melanie Mitchell [in progress]
+ * *Artificial Intelligence: A Guide for Thinking Humans* by Melanie Mitchell [complete] [recommended]
  * *The New Jim Crow: Mass Incarceration in the Age of Colorblindness* by Michelle Alexander [complete]
  * *Racecraft: The Soul of Inequality in American Life* by Barbara J. Fields and Karen Fields [complete]
  * *I am a Strange Loop* by Douglas Hofstadter [complete] [strongly recommended]
