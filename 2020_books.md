@@ -29,3 +29,4 @@
  ## Queue
   * *Chain Reaction: The Impact of Race, Rights, and Taxes on American Politics* by Mary & Thomas Edsall
   * *The Elementary Forms of the Religious Life* by Émile Durkheim
+  * *Philosophical Treatise on the Weaknesses of the Human Mind* by Pierre-Daniel Huet
