@@ -11,6 +11,7 @@
  * *The Silkworm* by Robert Galbraith [complete] [audiobook] [recommended]
  * *Solaris* by Stanslaw Lem [complete] [recommended]
  * *Dragon's Egg* by Robert Forward [complete] [ok]
+ * *The Atrocity Archives* by Charles Stross [in progress]
 
 ## Nonfiction 
  * *Becoming* by Michelle Obama [complete] [audiobook] [recommended]
@@ -25,6 +26,8 @@
  * *The Logic of Scientific Discovery* by Karl Popper [in progress]
  * *The Social Construction of What?* by Ian Hacking [in progress]
  * *Local Justice* by Jon Elster [in progress]
+ * *Subprime Attention Crisis* by Tim Hwang [complete] [recommended]
+ * *The Black Swan* by Nicholas Nassim Taleb [complete] [recommended (but not for the gullible reader)]
   
  ## Queue
   * *Chain Reaction: The Impact of Race, Rights, and Taxes on American Politics* by Mary & Thomas Edsall
