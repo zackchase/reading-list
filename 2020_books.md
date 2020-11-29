@@ -26,7 +26,7 @@
  * *The Logic of Scientific Discovery* by Karl Popper [in progress]
  * *The Social Construction of What?* by Ian Hacking [in progress]
  * *Local Justice* by Jon Elster [in progress]
- * *Subprime Attention Crisis* by Tim Hwang [complete] [recommended]
+ * *Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet* by Tim Hwang [complete] [recommended]
  * *The Black Swan* by Nicholas Nassim Taleb [complete] [recommended (but not for the gullible reader)]
   
  ## Queue
