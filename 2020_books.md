@@ -11,7 +11,7 @@
  * *The Silkworm* by Robert Galbraith [complete] [audiobook] [recommended]
  * *Solaris* by Stanslaw Lem [complete] [recommended]
  * *Dragon's Egg* by Robert Forward [complete] [ok]
- * *The Atrocity Archives* by Charles Stross [in progress]
+ * *The Atrocity Archives* by Charles Stross [complete]
 
 ## Nonfiction 
  * *Becoming* by Michelle Obama [complete] [audiobook] [recommended]
