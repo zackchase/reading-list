@@ -17,9 +17,9 @@
  * *Becoming* by Michelle Obama [complete] [audiobook] [recommended]
  * *Prediction Machines* by Ajay Agrawal, Avi Goldfarb, and Joshua Gans [complete] 
  * *Playing Changes* by Nate Chinen [complete]
- * *The Making of the Atomic Bomb* by Richard Rhodes [complete] [recommended]
+ * *The Making of the Atomic Bomb* by Richard Rhodes [complete] [strongly recommended]
  * *Artificial Intelligence: A Guide for Thinking Humans* by Melanie Mitchell [complete] [recommended]
- * *The New Jim Crow: Mass Incarceration in the Age of Colorblindness* by Michelle Alexander [complete]
+ * *The New Jim Crow: Mass Incarceration in the Age of Colorblindness* by Michelle Alexander [complete] [strongly recommended]
  * *Racecraft: The Soul of Inequality in American Life* by Barbara J. Fields and Karen Fields [complete]
  * *I am a Strange Loop* by Douglas Hofstadter [complete] [strongly recommended]
  * *Mechanics: Volume 1 (Course of Theoretical Physics)* by E.D. Landau and E.M. Lifshitz [in progress]
@@ -27,7 +27,8 @@
  * *The Social Construction of What?* by Ian Hacking [in progress]
  * *Local Justice* by Jon Elster [in progress]
  * *Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet* by Tim Hwang [complete] [recommended]
- * *The Black Swan* by Nicholas Nassim Taleb [complete] [recommended (but not for the gullible reader)]
+ * *The Black Swan* by Nicholas Nassim Taleb [complete] [recommended (but not for the gullible reader)] 
+ * *Antisocial: Online Extremists, Techno-Utopians, and the Hijacking of the American Conversation* by Andrew Marantz [complete] [strongly recommended]
   
  ## Queue
   * *Chain Reaction: The Impact of Race, Rights, and Taxes on American Politics* by Mary & Thomas Edsall
