@@ -4,6 +4,7 @@
  * *The Thing Itself* by Adam Roberts [complete]
  * *The Jennifer Morgue* by Charles Stross [complete]
  * *The Ipcress File* by Len Deighton [complete]
+ * *Career of Evil* by Robert Galbraith [in progress] [audiobook]
 
 ## Nonfiction 
  * *The Logic of Scientific Discovery* by Karl Popper [in progress]
@@ -12,6 +13,7 @@
  * *Creativity* by John Clease [complete]
  * *Surely You're Joking Mr. Feynman* [in progress]
  * *A Promised Land* by Barack Obama [complete]
+ * *The Promise of Artificial Intelligence* by Brian Cantwell Smith [in progress]
 
 
  ## Queue
