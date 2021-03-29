@@ -11,9 +11,10 @@
  * *The Social Construction of What?* by Ian Hacking [in progress]
  * *Local Justice* by Jon Elster [in progress]
  * *Creativity* by John Clease [complete]
- * *Surely You're Joking Mr. Feynman* [in progress]
+ * *Surely You're Joking Mr. Feynman* [complete]
  * *A Promised Land* by Barack Obama [complete]
  * *The Promise of Artificial Intelligence* by Brian Cantwell Smith [in progress]
+ * *The Meritocracy Trap* by Daniel Markovits [in progress]
 
 
  ## Queue
