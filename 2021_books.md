@@ -14,7 +14,8 @@
  * *Surely You're Joking Mr. Feynman* [complete]
  * *A Promised Land* by Barack Obama [complete]
  * *The Promise of Artificial Intelligence* by Brian Cantwell Smith [in progress]
- * *The Meritocracy Trap* by Daniel Markovits [in progress]
+ * *The Meritocracy Trap* by Daniel Markovits [complete]
+ * *Under a White Sky: The Nature of the Future* by Elizabeth Kolbert [in progress]
 
 
  ## Queue
