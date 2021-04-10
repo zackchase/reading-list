@@ -16,7 +16,7 @@
  * *The Promise of Artificial Intelligence* by Brian Cantwell Smith [in progress]
  * *Custodians of the Internet* by Tarleton Gillespie* [complete]
  * *The Meritocracy Trap* by Daniel Markovits [complete]
- * *Under a White Sky: The Nature of the Future* by Elizabeth Kolbert [in progress]
+ * *Under a White Sky: The Nature of the Future* by Elizabeth Kolbert [complete]
 
  ## Queue
   * *Chain Reaction: The Impact of Race, Rights, and Taxes on American Politics* by Mary & Thomas Edsall
